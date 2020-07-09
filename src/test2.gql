@@ -1,0 +1,32 @@
+query {
+  organization(login: "demo-org") {
+    name
+    team(slug: "all-users") {
+      name
+      repositories(first: 100) {
+        edges {
+          node {
+            nameWithOwner
+          }
+          permission
+        }
+      }
+    }
+    repositories(first: 100) {
+      edges {
+        node {
+          nameWithOwner
+          collaborators(affiliation: ALL) {
+            edges {
+              node {
+                name
+                login
+              }
+              permission
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,19 @@
+query {
+  organization(login: "demo-org") {
+    name
+    team(slug: "all-users") {
+      name
+      members(first: 2, after: null) {
+        totalCount
+        nodes {
+          name
+          login
+        }
+        pageInfo {
+          endCursor
+          hasNextPage
+        }
+      }
+    }
+  }
+}
