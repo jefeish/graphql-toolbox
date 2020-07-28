@@ -1,0 +1,919 @@
+{
+  "data": {
+    "organization": {
+      "name": "GitHub",
+      "repositories": {
+        "totalCount": 3602,
+        "nodes": [
+          {
+            "nameWithOwner": "github/github",
+            "collaborators": {
+              "totalCount": 2195,
+              "edges": [
+                {
+                  "node": {
+                    "name": "Bruce Williams",
+                    "login": "bruce"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Josh Nichols",
+                    "login": "technicalpickles"
+                  },
+                  "permission": "ADMIN"
+                },
+                {
+                  "node": {
+                    "name": "Nathan",
+                    "login": "myobie"
+                  },
+                  "permission": "ADMIN"
+                },
+                {
+                  "node": {
+                    "name": "Matt Todd",
+                    "login": "mtodd"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Zach Moazeni",
+                    "login": "zmoazeni"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Ben Scofield",
+                    "login": "bscofield"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Pat Nakajima",
+                    "login": "nakajima"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Nickolas Means",
+                    "login": "nmeans"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Jonathan Hoyt",
+                    "login": "jonmagic"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Mutwin Kraus",
+                    "login": "mutle"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Cameron Booth",
+                    "login": "cdb"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Keeran Raj Hawoldar",
+                    "login": "keeran"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Mislav Marohnić",
+                    "login": "mislav"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Nathan Sobo",
+                    "login": "nathansobo"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Bryan Clark",
+                    "login": "clarkbw"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Anoop Ranganath",
+                    "login": "anoopr"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Federico Builes",
+                    "login": "febuiles"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Arthur Schreiber",
+                    "login": "arthurschreiber"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Zeke Sikelianos",
+                    "login": "zeke"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Rimas Silkaitis",
+                    "login": "neovintage"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Patrick Thomson",
+                    "login": "patrickt"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Kyle Daigle",
+                    "login": "kdaigle"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Jared Pace",
+                    "login": "jdpace"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Mike Skalnik",
+                    "login": "skalnik"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Lynn Wallenstein",
+                    "login": "lynnwallenstein"
+                  },
+                  "permission": "ADMIN"
+                },
+                {
+                  "node": {
+                    "name": "Rufo Sanchez",
+                    "login": "rufo"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Rob Sterner",
+                    "login": "fermion"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Jason Rudolph",
+                    "login": "jasonrudolph"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Ben Sherman",
+                    "login": "bensherman"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Karl Krukow",
+                    "login": "krukow"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Manuel Muñoz Solera",
+                    "login": "mamuso"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Nathan Witmer",
+                    "login": "zerowidth"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Juan Pemberthy",
+                    "login": "jpemberthy"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Jeff Rafter",
+                    "login": "jeffrafter"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Nathan Henderson",
+                    "login": "nathos"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Jeremy Israelsen",
+                    "login": "jisraelsen"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Arfon Smith",
+                    "login": "arfon"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Adam Holt",
+                    "login": "omgitsads"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Thomas Maurer",
+                    "login": "tma"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Ryan Waldron",
+                    "login": "erebor"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Jared Fine",
+                    "login": "jfine"
+                  },
+                  "permission": "ADMIN"
+                },
+                {
+                  "node": {
+                    "name": "Michael Procter",
+                    "login": "mhp"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Jason Long",
+                    "login": "jasonlong"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Nick Hengeveld",
+                    "login": "nickh"
+                  },
+                  "permission": "MAINTAIN"
+                },
+                {
+                  "node": {
+                    "name": "Steffen Hiller",
+                    "login": "steffen"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Dave Cheney",
+                    "login": "davecheney"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Sean Bryant",
+                    "login": "sbryant"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Douglas Creager",
+                    "login": "dcreager"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Andrew Stanton-Nurse",
+                    "login": "anurse"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Dirkjan Bussink",
+                    "login": "dbussink"
+                  },
+                  "permission": "ADMIN"
+                },
+                {
+                  "node": {
+                    "name": "isaacs",
+                    "login": "isaacs"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Luke Francl",
+                    "login": "look"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Sergio Rubio",
+                    "login": "rubiojr"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Javier Uruen Val",
+                    "login": "juruen"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Jonathan Wallace",
+                    "login": "wallace"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Jens Hilligsøe",
+                    "login": "hilli"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Ross McFarland",
+                    "login": "ross"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Alejandro Cadavid",
+                    "login": "acadavid"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Keith Marcum",
+                    "login": "kamarcum"
+                  },
+                  "permission": "ADMIN"
+                },
+                {
+                  "node": {
+                    "name": "Josh Abernathy",
+                    "login": "joshaber"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Cliff Pruitt",
+                    "login": "cpruitt"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Brad Wilson",
+                    "login": "bradwilson"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Antonio Santos",
+                    "login": "antonio"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Matt Yoho",
+                    "login": "mattyoho"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Ash Wilson",
+                    "login": "smashwilson"
+                  },
+                  "permission": "MAINTAIN"
+                },
+                {
+                  "node": {
+                    "name": "Mike Griffin",
+                    "login": "mgriffin"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Phill MV",
+                    "login": "phillmv"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Sho Mizutani",
+                    "login": "lowply"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Jerry Cheung",
+                    "login": "jch"
+                  },
+                  "permission": "ADMIN"
+                },
+                {
+                  "node": {
+                    "name": "James S. White",
+                    "login": "jameswhite"
+                  },
+                  "permission": "ADMIN"
+                },
+                {
+                  "node": {
+                    "name": "Matt Burke",
+                    "login": "spraints"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Philip Harrison",
+                    "login": "feelepxyz"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Eric Johnson",
+                    "login": "elstudio"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Chris Bloom",
+                    "login": "chrisbloom7"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Paul Smith",
+                    "login": "paulcsmith"
+                  },
+                  "permission": "MAINTAIN"
+                },
+                {
+                  "node": {
+                    "name": "Idan Gazit",
+                    "login": "idan"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Josh Vera",
+                    "login": "joshvera"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Matthew J. McCullough",
+                    "login": "matthewmccullough"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Ramon Bispo",
+                    "login": "RamonPage"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Clayton O'Neill",
+                    "login": "claytono"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Steve Winton",
+                    "login": "swinton"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Alex Graveley",
+                    "login": "orph"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Andrew Nordman",
+                    "login": "cadwallion"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Donal Ellis",
+                    "login": "donal"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Aziz Shamim",
+                    "login": "azizshamim"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "EricaJoy",
+                    "login": "EricaJoy"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Shay Frendt",
+                    "login": "shayfrendt"
+                  },
+                  "permission": "ADMIN"
+                },
+                {
+                  "node": {
+                    "name": "Steve Richert",
+                    "login": "laserlemon"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Max Veytsman",
+                    "login": "mveytsman"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Guðmundur Bjarni Ólafsson",
+                    "login": "gudmundur"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Dan Herrera",
+                    "login": "whoahbot"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Gar",
+                    "login": "wraithgar"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Will Fitzgerald",
+                    "login": "willf"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Matt Wells",
+                    "login": "ninjapenguin"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Ivan Žužak",
+                    "login": "izuzak"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Mike Linksvayer",
+                    "login": "mlinksva"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Craig Steinberger",
+                    "login": "cjs"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Jamie Murai",
+                    "login": "jammur"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Vicent Martí",
+                    "login": "vmg"
+                  },
+                  "permission": "WRITE"
+                },
+                {
+                  "node": {
+                    "name": "Matt Clark",
+                    "login": "mclark"
+                  },
+                  "permission": "WRITE"
+                }
+              ],
+              "pageInfo": {
+                "hasNextPage": true,
+                "endCursor": "Y3Vyc29yOnYyOpHNq_c="
+              }
+            }
+          },
+          {
+            "nameWithOwner": "github/extras",
+            "collaborators": null
+          },
+          {
+            "nameWithOwner": "github/media",
+            "collaborators": null
+          },
+          {
+            "nameWithOwner": "github/albino",
+            "collaborators": null
+          },
+          {
+            "nameWithOwner": "github/hubahuba",
+            "collaborators": null
+          },
+          {
+            "nameWithOwner": "github/jquery-hotkeys",
+            "collaborators": null
+          },
+          {
+            "nameWithOwner": "github/jquery-relatize_date",
+            "collaborators": null
+          },
+          {
+            "nameWithOwner": "github/request_timer",
+            "collaborators": null
+          },
+          {
+            "nameWithOwner": "github/will_paginate_with_hotkeys",
+            "collaborators": null
+          },
+          {
+            "nameWithOwner": "github/gem-builder",
+            "collaborators": null
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": true,
+          "endCursor": "Y3Vyc29yOnYyOpHOAAEHoQ=="
+        }
+      }
+    }
+  },
+  "errors": [
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organization",
+        "repositories",
+        "nodes",
+        1,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 8,
+          "column": 9
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organization",
+        "repositories",
+        "nodes",
+        2,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 8,
+          "column": 9
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organization",
+        "repositories",
+        "nodes",
+        3,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 8,
+          "column": 9
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organization",
+        "repositories",
+        "nodes",
+        4,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 8,
+          "column": 9
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organization",
+        "repositories",
+        "nodes",
+        5,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 8,
+          "column": 9
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organization",
+        "repositories",
+        "nodes",
+        6,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 8,
+          "column": 9
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organization",
+        "repositories",
+        "nodes",
+        7,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 8,
+          "column": 9
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organization",
+        "repositories",
+        "nodes",
+        8,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 8,
+          "column": 9
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organization",
+        "repositories",
+        "nodes",
+        9,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 8,
+          "column": 9
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+query {  organization(login: null) {    name    repositories(first: 100, after: null) {      nodes {        name      }      pageInfo {        hasNextPage        endCursor      }    }  }}

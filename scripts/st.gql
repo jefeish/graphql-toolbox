@@ -1,0 +1,2 @@
+{query {organization(login: "github") { name repositories(first: 100, after: null) { totalCount nodes { nameWithOwner defaultBranchRef { name } } pageInfo{ hasNextPage endCursor } } } } }' https://api.github.com/graphql 
+

@@ -1,0 +1,16 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "A place for some tools and tests with GraphQL",
+  "main": "server.js",
+  "dependencies": {
+    "graphql": "^15.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,41 @@
+query{
+  organization(login: null) {
+    name
+    repository(name: null) {
+      nameWithOwner
+      collaborators(affiliation: ALL, after: null) {
+        totalCount
+        edges {
+          node {
+            name
+            login
+            email
+          }
+          permission
+          permissionSources {
+            source {
+              __typename
+              ... on Organization {
+                login
+                name
+              }
+              ... on Repository {
+                name
+                nameWithOwner
+              }
+              ... on Team {
+                name
+                combinedSlug
+              }
+            }
+          }
+        }
+        pageInfo {
+          hasNextPage
+          endCursor
+        }
+      }
+    }
+  }
+}
+

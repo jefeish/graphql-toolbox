@@ -1,0 +1,6295 @@
+{
+  "data": {
+    "organizations": {
+      "nodes": [
+        {
+          "name": "Wizards",
+          "repositories": {
+            "totalCount": 0,
+            "nodes": []
+          }
+        },
+        {
+          "name": "thugs",
+          "repositories": {
+            "totalCount": 0,
+            "nodes": []
+          }
+        },
+        {
+          "name": "github",
+          "repositories": {
+            "totalCount": 41,
+            "nodes": [
+              {
+                "name": "enterprise-toolchain",
+                "collaborators": null
+              },
+              {
+                "name": "enterprise-support-tools",
+                "collaborators": null
+              },
+              {
+                "name": "ghe-support-notifier",
+                "collaborators": null
+              },
+              {
+                "name": "enterprise-support-stats",
+                "collaborators": null
+              },
+              {
+                "name": "miniature-meme",
+                "collaborators": null
+              },
+              {
+                "name": "enterprise-dev-docs",
+                "collaborators": null
+              },
+              {
+                "name": "sales",
+                "collaborators": null
+              },
+              {
+                "name": "egg",
+                "collaborators": null
+              },
+              {
+                "name": "assets-team",
+                "collaborators": null
+              },
+              {
+                "name": "sales-demo-playbook",
+                "collaborators": null
+              },
+              {
+                "name": "pages-canary",
+                "collaborators": null
+              },
+              {
+                "name": "engineering",
+                "collaborators": null
+              },
+              {
+                "name": "brannan",
+                "collaborators": null
+              },
+              {
+                "name": "git-repld",
+                "collaborators": null
+              },
+              {
+                "name": "sales-monthly",
+                "collaborators": null
+              },
+              {
+                "name": "finance-updates",
+                "collaborators": null
+              },
+              {
+                "name": "support",
+                "collaborators": null
+              },
+              {
+                "name": "comms-updates",
+                "collaborators": null
+              },
+              {
+                "name": "sales-bootcamp-homework",
+                "collaborators": null
+              },
+              {
+                "name": "github-slack-hubot",
+                "collaborators": null
+              },
+              {
+                "name": "pixels-and-propaganda",
+                "collaborators": null
+              },
+              {
+                "name": "mcolyer",
+                "collaborators": null
+              },
+              {
+                "name": "sales-engineering",
+                "collaborators": null
+              },
+              {
+                "name": "infra-weekly",
+                "collaborators": null
+              },
+              {
+                "name": "ux",
+                "collaborators": null
+              },
+              {
+                "name": "product",
+                "collaborators": null
+              },
+              {
+                "name": "implementations-blog",
+                "collaborators": null
+              },
+              {
+                "name": "renderables",
+                "collaborators": null
+              },
+              {
+                "name": "prototype",
+                "collaborators": null
+              },
+              {
+                "name": "giving-report",
+                "collaborators": null
+              },
+              {
+                "name": "sales-enablement-updates",
+                "collaborators": null
+              },
+              {
+                "name": "monalisas",
+                "collaborators": null
+              },
+              {
+                "name": "emails",
+                "collaborators": null
+              },
+              {
+                "name": "es-docs",
+                "collaborators": null
+              },
+              {
+                "name": "data",
+                "collaborators": null
+              },
+              {
+                "name": "staging-git-merge",
+                "collaborators": null
+              },
+              {
+                "name": "resources-staging",
+                "collaborators": null
+              },
+              {
+                "name": "githubuniverse.com-staging",
+                "collaborators": null
+              },
+              {
+                "name": "marketing-updates",
+                "collaborators": null
+              },
+              {
+                "name": "octoverse-2017-staging",
+                "collaborators": null
+              },
+              {
+                "name": "sales-club",
+                "collaborators": null
+              }
+            ]
+          }
+        },
+        {
+          "name": "GitHubEnterpriseDemo",
+          "repositories": {
+            "totalCount": 0,
+            "nodes": []
+          }
+        },
+        {
+          "name": "Dotcom",
+          "repositories": {
+            "totalCount": 0,
+            "nodes": []
+          }
+        },
+        {
+          "name": "Enterprise",
+          "repositories": {
+            "totalCount": 0,
+            "nodes": []
+          }
+        },
+        {
+          "name": "The Desktop Team",
+          "repositories": {
+            "totalCount": 18,
+            "nodes": [
+              {
+                "name": "git-error-translations",
+                "collaborators": null
+              },
+              {
+                "name": "primer-cocoa",
+                "collaborators": null
+              },
+              {
+                "name": "prototype",
+                "collaborators": null
+              },
+              {
+                "name": "Windows",
+                "collaborators": null
+              },
+              {
+                "name": "Difficult",
+                "collaborators": null
+              },
+              {
+                "name": "ghe-azure-build",
+                "collaborators": null
+              },
+              {
+                "name": "rxui-design-guidelines",
+                "collaborators": null
+              },
+              {
+                "name": "ambivalence",
+                "collaborators": null
+              },
+              {
+                "name": "weekly",
+                "collaborators": null
+              },
+              {
+                "name": "test-repo",
+                "collaborators": null
+              },
+              {
+                "name": "mac.github.com",
+                "collaborators": null
+              },
+              {
+                "name": "windows.github.com",
+                "collaborators": null
+              },
+              {
+                "name": "comparison-graph-integration",
+                "collaborators": null
+              },
+              {
+                "name": "VisualStudio",
+                "collaborators": null
+              },
+              {
+                "name": "comparison-graph-construction-syntax",
+                "collaborators": null
+              },
+              {
+                "name": "Doubt",
+                "collaborators": null
+              },
+              {
+                "name": "Issues",
+                "collaborators": null
+              },
+              {
+                "name": "desktop.github.com",
+                "collaborators": null
+              }
+            ]
+          }
+        },
+        {
+          "name": "Sales",
+          "repositories": {
+            "totalCount": 0,
+            "nodes": []
+          }
+        },
+        {
+          "name": "thewebsite-zz",
+          "repositories": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "name": "growth",
+                "collaborators": null
+              }
+            ]
+          }
+        },
+        {
+          "name": "enterprise-ops",
+          "repositories": {
+            "totalCount": 2,
+            "nodes": [
+              {
+                "name": "benchmark-experiment",
+                "collaborators": null
+              },
+              {
+                "name": "vsphere",
+                "collaborators": null
+              }
+            ]
+          }
+        },
+        {
+          "name": "github-enterprise",
+          "repositories": {
+            "totalCount": 0,
+            "nodes": []
+          }
+        },
+        {
+          "name": "acme-test",
+          "repositories": {
+            "totalCount": 0,
+            "nodes": []
+          }
+        },
+        {
+          "name": "Testing",
+          "repositories": {
+            "totalCount": 0,
+            "nodes": []
+          }
+        },
+        {
+          "name": "test-org",
+          "repositories": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "name": "test_repo",
+                "collaborators": null
+              }
+            ]
+          }
+        },
+        {
+          "name": "thebusiness",
+          "repositories": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "name": "plan",
+                "collaborators": null
+              }
+            ]
+          }
+        },
+        {
+          "name": "test-org2",
+          "repositories": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "name": "happy-times",
+                "collaborators": null
+              }
+            ]
+          }
+        },
+        {
+          "name": "Octocats",
+          "repositories": {
+            "totalCount": 0,
+            "nodes": []
+          }
+        },
+        {
+          "name": "john-org",
+          "repositories": {
+            "totalCount": 6,
+            "nodes": [
+              {
+                "name": "zomg",
+                "collaborators": null
+              },
+              {
+                "name": "a-zomg",
+                "collaborators": null
+              },
+              {
+                "name": "b-zomg",
+                "collaborators": null
+              },
+              {
+                "name": "blarg",
+                "collaborators": null
+              },
+              {
+                "name": "forkme",
+                "collaborators": null
+              },
+              {
+                "name": "johnjohnjohn",
+                "collaborators": null
+              }
+            ]
+          }
+        },
+        {
+          "name": "foobartestorg",
+          "repositories": {
+            "totalCount": 0,
+            "nodes": []
+          }
+        },
+        {
+          "name": "windows-tester",
+          "repositories": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "name": "blog",
+                "collaborators": null
+              }
+            ]
+          }
+        },
+        {
+          "name": "test-one",
+          "repositories": {
+            "totalCount": 0,
+            "nodes": []
+          }
+        },
+        {
+          "name": "org-the-first",
+          "repositories": {
+            "totalCount": 3,
+            "nodes": [
+              {
+                "name": "cloaked-octo-wight",
+                "collaborators": null
+              },
+              {
+                "name": "enterprise-support-stats",
+                "collaborators": null
+              },
+              {
+                "name": "bearded-octo-dangerzone",
+                "collaborators": null
+              }
+            ]
+          }
+        },
+        {
+          "name": "chickenpluck",
+          "repositories": {
+            "totalCount": 0,
+            "nodes": []
+          }
+        },
+        {
+          "name": "lildude-org",
+          "repositories": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "name": "turbo-robot",
+                "collaborators": null
+              }
+            ]
+          }
+        },
+        {
+          "name": "sdfs",
+          "repositories": {
+            "totalCount": 0,
+            "nodes": []
+          }
+        },
+        {
+          "name": "lildude-org2",
+          "repositories": {
+            "totalCount": 0,
+            "nodes": []
+          }
+        },
+        {
+          "name": "jason-mason-bo-bason",
+          "repositories": {
+            "totalCount": 2,
+            "nodes": [
+              {
+                "name": "splorf",
+                "collaborators": null
+              },
+              {
+                "name": "my-lfs",
+                "collaborators": null
+              }
+            ]
+          }
+        },
+        {
+          "name": "bizdev",
+          "repositories": {
+            "totalCount": 4,
+            "nodes": [
+              {
+                "name": "boxdev14",
+                "collaborators": null
+              },
+              {
+                "name": "digest",
+                "collaborators": null
+              },
+              {
+                "name": "integrations",
+                "collaborators": null
+              },
+              {
+                "name": "directory",
+                "collaborators": null
+              }
+            ]
+          }
+        },
+        {
+          "name": "staging",
+          "repositories": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "name": "help",
+                "collaborators": null
+              }
+            ]
+          }
+        },
+        {
+          "name": "sachinr-org",
+          "repositories": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "name": "potential-octo-batman",
+                "collaborators": null
+              }
+            ]
+          }
+        },
+        {
+          "name": "rubiojr-org",
+          "repositories": {
+            "totalCount": 0,
+            "nodes": []
+          }
+        },
+        {
+          "name": "sbryant-org",
+          "repositories": {
+            "totalCount": 0,
+            "nodes": []
+          }
+        },
+        {
+          "name": "watsonian-org",
+          "repositories": {
+            "totalCount": 0,
+            "nodes": []
+          }
+        },
+        {
+          "name": "web",
+          "repositories": {
+            "totalCount": 0,
+            "nodes": []
+          }
+        },
+        {
+          "name": "help-staging",
+          "repositories": {
+            "totalCount": 0,
+            "nodes": []
+          }
+        },
+        {
+          "name": "github-docs",
+          "repositories": {
+            "totalCount": 0,
+            "nodes": []
+          }
+        },
+        {
+          "name": "help-testing",
+          "repositories": {
+            "totalCount": 0,
+            "nodes": []
+          }
+        },
+        {
+          "name": "help-production",
+          "repositories": {
+            "totalCount": 0,
+            "nodes": []
+          }
+        },
+        {
+          "name": "Japan",
+          "repositories": {
+            "totalCount": 0,
+            "nodes": []
+          }
+        },
+        {
+          "name": "khan",
+          "repositories": {
+            "totalCount": 0,
+            "nodes": []
+          }
+        },
+        {
+          "name": "brit",
+          "repositories": {
+            "totalCount": 0,
+            "nodes": []
+          }
+        },
+        {
+          "name": "buckelij-org",
+          "repositories": {
+            "totalCount": 3,
+            "nodes": [
+              {
+                "name": "test",
+                "collaborators": null
+              },
+              {
+                "name": "publicrenamed",
+                "collaborators": null
+              },
+              {
+                "name": "unity-5.x",
+                "collaborators": null
+              }
+            ]
+          }
+        },
+        {
+          "name": "help-foo",
+          "repositories": {
+            "totalCount": 0,
+            "nodes": []
+          }
+        },
+        {
+          "name": "FPTestOrg",
+          "repositories": {
+            "totalCount": 0,
+            "nodes": []
+          }
+        },
+        {
+          "name": "Atom",
+          "repositories": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "name": "log",
+                "collaborators": null
+              }
+            ]
+          }
+        },
+        {
+          "name": "octo-org",
+          "repositories": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "name": "test",
+                "collaborators": null
+              }
+            ]
+          }
+        },
+        {
+          "name": "emoji-world",
+          "repositories": {
+            "totalCount": 0,
+            "nodes": []
+          }
+        },
+        {
+          "name": "tldr",
+          "repositories": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "name": "tldr.ghe.io",
+                "collaborators": null
+              }
+            ]
+          }
+        },
+        {
+          "name": "wow-wow",
+          "repositories": {
+            "totalCount": 0,
+            "nodes": []
+          }
+        },
+        {
+          "name": "product",
+          "repositories": {
+            "totalCount": 0,
+            "nodes": []
+          }
+        },
+        {
+          "name": "Schibsted-Test",
+          "repositories": {
+            "totalCount": 0,
+            "nodes": []
+          }
+        },
+        {
+          "name": "mobile",
+          "repositories": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "name": "yolo-wallhack",
+                "collaborators": null
+              }
+            ]
+          }
+        },
+        {
+          "name": "managers",
+          "repositories": {
+            "totalCount": 0,
+            "nodes": []
+          }
+        },
+        {
+          "name": "gp-ent22org",
+          "repositories": {
+            "totalCount": 0,
+            "nodes": []
+          }
+        },
+        {
+          "name": "ldap-sample-org",
+          "repositories": {
+            "totalCount": 0,
+            "nodes": []
+          }
+        },
+        {
+          "name": "Support New Hires",
+          "repositories": {
+            "totalCount": 84,
+            "nodes": [
+              {
+                "name": "onboarder",
+                "collaborators": null
+              },
+              {
+                "name": "craig-steinberger",
+                "collaborators": null
+              },
+              {
+                "name": "lucia-escanellas",
+                "collaborators": null
+              },
+              {
+                "name": "keeran-raj-hawoldar",
+                "collaborators": null
+              },
+              {
+                "name": "ronnie-moore",
+                "collaborators": null
+              },
+              {
+                "name": "anthony-stenhouse",
+                "collaborators": null
+              },
+              {
+                "name": "francois-conil",
+                "collaborators": null
+              },
+              {
+                "name": "james-dennes",
+                "collaborators": null
+              },
+              {
+                "name": "ryan-trauntvein",
+                "collaborators": null
+              },
+              {
+                "name": "john-wiebalk",
+                "collaborators": null
+              },
+              {
+                "name": "brian-evans",
+                "collaborators": null
+              },
+              {
+                "name": "premila-anand",
+                "collaborators": null
+              },
+              {
+                "name": "melanie-cooper",
+                "collaborators": null
+              },
+              {
+                "name": "paul-kaiser",
+                "collaborators": null
+              },
+              {
+                "name": "leigh-fort",
+                "collaborators": null
+              },
+              {
+                "name": "jay-clark",
+                "collaborators": null
+              },
+              {
+                "name": "jodi-delman",
+                "collaborators": null
+              },
+              {
+                "name": "priscila-heller",
+                "collaborators": null
+              },
+              {
+                "name": "william-choe",
+                "collaborators": null
+              },
+              {
+                "name": "ryan-versaw",
+                "collaborators": null
+              },
+              {
+                "name": "nathan-sinton",
+                "collaborators": null
+              },
+              {
+                "name": "chris-sefkin",
+                "collaborators": null
+              },
+              {
+                "name": "pat-east",
+                "collaborators": null
+              },
+              {
+                "name": "walden-bodtker",
+                "collaborators": null
+              },
+              {
+                "name": "john-stautinger",
+                "collaborators": null
+              },
+              {
+                "name": "matthias-wiesen",
+                "collaborators": null
+              },
+              {
+                "name": "joshua-kearney",
+                "collaborators": null
+              },
+              {
+                "name": "roger-winans",
+                "collaborators": null
+              },
+              {
+                "name": "matt-pollard",
+                "collaborators": null
+              },
+              {
+                "name": "vanessa-edward",
+                "collaborators": null
+              },
+              {
+                "name": "adrienn-richmond",
+                "collaborators": null
+              },
+              {
+                "name": "craig-errington",
+                "collaborators": null
+              },
+              {
+                "name": "tim-o-mahony",
+                "collaborators": null
+              },
+              {
+                "name": "dan-buskariol",
+                "collaborators": null
+              },
+              {
+                "name": "ivy-alexander",
+                "collaborators": null
+              },
+              {
+                "name": "william-smargiassi",
+                "collaborators": null
+              },
+              {
+                "name": "stacy-carter",
+                "collaborators": null
+              },
+              {
+                "name": "melina-boutierou",
+                "collaborators": null
+              },
+              {
+                "name": "pri-branch-test",
+                "collaborators": null
+              },
+              {
+                "name": "jaime-sanchez",
+                "collaborators": null
+              },
+              {
+                "name": "stephen-mather",
+                "collaborators": null
+              },
+              {
+                "name": "brian-call",
+                "collaborators": null
+              },
+              {
+                "name": "andrew-ruller",
+                "collaborators": null
+              },
+              {
+                "name": "eric-cotton",
+                "collaborators": null
+              },
+              {
+                "name": "cameron-phillips",
+                "collaborators": null
+              },
+              {
+                "name": "olliec-crenshaw",
+                "collaborators": null
+              },
+              {
+                "name": "brice-holland",
+                "collaborators": null
+              },
+              {
+                "name": "richard-smedes",
+                "collaborators": null
+              },
+              {
+                "name": "carlos-pintado",
+                "collaborators": null
+              },
+              {
+                "name": "wilson-wong",
+                "collaborators": null
+              },
+              {
+                "name": "louis-williams",
+                "collaborators": null
+              },
+              {
+                "name": "michael-dickey",
+                "collaborators": null
+              },
+              {
+                "name": "andrew-walker",
+                "collaborators": null
+              },
+              {
+                "name": "vance-west",
+                "collaborators": null
+              },
+              {
+                "name": "logan-maclaren",
+                "collaborators": null
+              },
+              {
+                "name": "tim-burgan",
+                "collaborators": null
+              },
+              {
+                "name": "ryosuke-nakayama",
+                "collaborators": null
+              },
+              {
+                "name": "douglas-parrish",
+                "collaborators": null
+              },
+              {
+                "name": "peter-kovacs",
+                "collaborators": null
+              },
+              {
+                "name": "faisal-eddichari",
+                "collaborators": null
+              },
+              {
+                "name": "james-butler",
+                "collaborators": null
+              },
+              {
+                "name": "matt-barber",
+                "collaborators": null
+              },
+              {
+                "name": "robert-mckenzie",
+                "collaborators": null
+              },
+              {
+                "name": "edward-lopez-acosta",
+                "collaborators": null
+              },
+              {
+                "name": "joe-bloggs",
+                "collaborators": null
+              },
+              {
+                "name": "david-morris",
+                "collaborators": null
+              },
+              {
+                "name": "tom-earl",
+                "collaborators": null
+              },
+              {
+                "name": "andy-barnes",
+                "collaborators": null
+              },
+              {
+                "name": "james-bishop",
+                "collaborators": null
+              },
+              {
+                "name": "brendan-sturges",
+                "collaborators": null
+              },
+              {
+                "name": "erran-fenech",
+                "collaborators": null
+              },
+              {
+                "name": "glen-babiano",
+                "collaborators": null
+              },
+              {
+                "name": "casey-mokricky",
+                "collaborators": null
+              },
+              {
+                "name": "chip-hahn",
+                "collaborators": null
+              },
+              {
+                "name": "ming-davies",
+                "collaborators": null
+              },
+              {
+                "name": "panagiotis-lithadiotis",
+                "collaborators": null
+              },
+              {
+                "name": "michael-bruce",
+                "collaborators": null
+              },
+              {
+                "name": "allie-uhde",
+                "collaborators": null
+              },
+              {
+                "name": "mike-dalton",
+                "collaborators": null
+              },
+              {
+                "name": "brandon-williams",
+                "collaborators": null
+              },
+              {
+                "name": "mwiesen-test",
+                "collaborators": null
+              },
+              {
+                "name": "diego-huertas",
+                "collaborators": null
+              },
+              {
+                "name": "todd-harbour",
+                "collaborators": null
+              },
+              {
+                "name": "paul-kohler",
+                "collaborators": null
+              }
+            ]
+          }
+        },
+        {
+          "name": "test",
+          "repositories": {
+            "totalCount": 0,
+            "nodes": []
+          }
+        },
+        {
+          "name": "Zeus",
+          "repositories": {
+            "totalCount": 3,
+            "nodes": [
+              {
+                "name": "experiments",
+                "collaborators": null
+              },
+              {
+                "name": "index",
+                "collaborators": null
+              },
+              {
+                "name": "heartbeat",
+                "collaborators": null
+              }
+            ]
+          }
+        },
+        {
+          "name": "services",
+          "repositories": {
+            "totalCount": 10,
+            "nodes": [
+              {
+                "name": "demonstration",
+                "collaborators": null
+              },
+              {
+                "name": "testing-collaboration-migration",
+                "collaborators": null
+              },
+              {
+                "name": "services-tools-blog",
+                "collaborators": null
+              },
+              {
+                "name": "github-maturity-model-staging",
+                "collaborators": null
+              },
+              {
+                "name": "newrepo",
+                "collaborators": null
+              },
+              {
+                "name": "repository-utils",
+                "collaborators": null
+              },
+              {
+                "name": "the-metrics-that-matter",
+                "collaborators": null
+              },
+              {
+                "name": "move-from-legacy-systems-to-git",
+                "collaborators": null
+              },
+              {
+                "name": "benefits-of-open-source-inside-your-organization",
+                "collaborators": null
+              },
+              {
+                "name": "pr-validator",
+                "collaborators": null
+              }
+            ]
+          }
+        },
+        {
+          "name": "Insecurity",
+          "repositories": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "name": "insecurity.ghe.io",
+                "collaborators": null
+              }
+            ]
+          }
+        },
+        {
+          "name": "Support Ops",
+          "repositories": {
+            "totalCount": 8,
+            "nodes": [
+              {
+                "name": "bin-dmca",
+                "collaborators": null
+              },
+              {
+                "name": "team",
+                "collaborators": null
+              },
+              {
+                "name": "teamplayer",
+                "collaborators": null
+              },
+              {
+                "name": "ideas",
+                "collaborators": null
+              },
+              {
+                "name": "tools-discovery",
+                "collaborators": null
+              },
+              {
+                "name": "phlogistinator",
+                "collaborators": null
+              },
+              {
+                "name": "docs-wanted",
+                "collaborators": null
+              },
+              {
+                "name": "dmca-workflow",
+                "collaborators": null
+              }
+            ]
+          }
+        },
+        {
+          "name": "oldvmteam",
+          "repositories": {
+            "totalCount": 0,
+            "nodes": []
+          }
+        },
+        {
+          "name": "devtools",
+          "repositories": {
+            "totalCount": 0,
+            "nodes": []
+          }
+        },
+        {
+          "name": "github-gaming",
+          "repositories": {
+            "totalCount": 0,
+            "nodes": []
+          }
+        },
+        {
+          "name": "us-support",
+          "repositories": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "name": "what-is-up",
+                "collaborators": null
+              }
+            ]
+          }
+        },
+        {
+          "name": "enterprise-support-1-1s",
+          "repositories": {
+            "totalCount": 0,
+            "nodes": []
+          }
+        },
+        {
+          "name": "lettermark",
+          "repositories": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "name": "legal-letters",
+                "collaborators": null
+              }
+            ]
+          }
+        },
+        {
+          "name": "eng",
+          "repositories": {
+            "totalCount": 0,
+            "nodes": []
+          }
+        },
+        {
+          "name": "infra",
+          "repositories": {
+            "totalCount": 0,
+            "nodes": []
+          }
+        },
+        {
+          "name": "OrgTestRaviolicode",
+          "repositories": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "name": "test_original",
+                "collaborators": null
+              }
+            ]
+          }
+        },
+        {
+          "name": "buckelij-org2",
+          "repositories": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "name": "unity-5.x",
+                "collaborators": null
+              }
+            ]
+          }
+        },
+        {
+          "name": "AwesomeProject",
+          "repositories": {
+            "totalCount": 2,
+            "nodes": [
+              {
+                "name": "showcase",
+                "collaborators": null
+              },
+              {
+                "name": "notification",
+                "collaborators": null
+              }
+            ]
+          }
+        },
+        {
+          "name": "accessdenied",
+          "repositories": {
+            "totalCount": 0,
+            "nodes": []
+          }
+        },
+        {
+          "name": "My API Test",
+          "repositories": {
+            "totalCount": 4,
+            "nodes": [
+              {
+                "name": "test-repo",
+                "collaborators": null
+              },
+              {
+                "name": "knowledgebase",
+                "collaborators": null
+              },
+              {
+                "name": "prototype",
+                "collaborators": null
+              },
+              {
+                "name": "didactic-guide",
+                "collaborators": null
+              }
+            ]
+          }
+        },
+        {
+          "name": "SuchAGreatOrg",
+          "repositories": {
+            "totalCount": 0,
+            "nodes": []
+          }
+        },
+        {
+          "name": "github-mirrors",
+          "repositories": {
+            "totalCount": 0,
+            "nodes": []
+          }
+        },
+        {
+          "name": "technology",
+          "repositories": {
+            "totalCount": 0,
+            "nodes": []
+          }
+        },
+        {
+          "name": "testorg",
+          "repositories": {
+            "totalCount": 0,
+            "nodes": []
+          }
+        },
+        {
+          "name": "social-impact",
+          "repositories": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "name": "social-impact.ghe.io",
+                "collaborators": null
+              }
+            ]
+          }
+        },
+        {
+          "name": "ResEdit Hackers",
+          "repositories": {
+            "totalCount": 5,
+            "nodes": [
+              {
+                "name": "assets",
+                "collaborators": null
+              },
+              {
+                "name": "jubilant-guacamole",
+                "collaborators": null
+              },
+              {
+                "name": "sid-emr",
+                "collaborators": null
+              },
+              {
+                "name": "urban-barnacle",
+                "collaborators": null
+              },
+              {
+                "name": "miniature-rotary-phone",
+                "collaborators": null
+              }
+            ]
+          }
+        },
+        {
+          "name": "blitz",
+          "repositories": {
+            "totalCount": 3,
+            "nodes": [
+              {
+                "name": "blotz",
+                "collaborators": null
+              },
+              {
+                "name": "blatz",
+                "collaborators": null
+              },
+              {
+                "name": "v3core",
+                "collaborators": null
+              }
+            ]
+          }
+        },
+        {
+          "name": "test-for-practice",
+          "repositories": {
+            "totalCount": 0,
+            "nodes": []
+          }
+        },
+        {
+          "name": "gp-org-24",
+          "repositories": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "name": "done",
+                "collaborators": null
+              }
+            ]
+          }
+        },
+        {
+          "name": "RonnieCo",
+          "repositories": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "name": "superduper",
+                "collaborators": null
+              }
+            ]
+          }
+        },
+        {
+          "name": "trainign",
+          "repositories": {
+            "totalCount": 0,
+            "nodes": []
+          }
+        },
+        {
+          "name": "training",
+          "repositories": {
+            "totalCount": 0,
+            "nodes": []
+          }
+        },
+        {
+          "name": "lukes-test-org",
+          "repositories": {
+            "totalCount": 0,
+            "nodes": []
+          }
+        },
+        {
+          "name": "xferorg",
+          "repositories": {
+            "totalCount": 0,
+            "nodes": []
+          }
+        },
+        {
+          "name": "tester",
+          "repositories": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "name": "tt",
+                "collaborators": null
+              }
+            ]
+          }
+        },
+        {
+          "name": "open-source",
+          "repositories": {
+            "totalCount": 5,
+            "nodes": [
+              {
+                "name": "github.github.io",
+                "collaborators": null
+              },
+              {
+                "name": "github-credits",
+                "collaborators": null
+              },
+              {
+                "name": "onboarding",
+                "collaborators": null
+              },
+              {
+                "name": "collab-summit-2016",
+                "collaborators": null
+              },
+              {
+                "name": "survey",
+                "collaborators": null
+              }
+            ]
+          }
+        },
+        {
+          "name": "legal",
+          "repositories": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "name": "blog",
+                "collaborators": null
+              }
+            ]
+          }
+        },
+        {
+          "name": "rafer-career-dev",
+          "repositories": {
+            "totalCount": 0,
+            "nodes": []
+          }
+        },
+        {
+          "name": "BenEddy-career-dev",
+          "repositories": {
+            "totalCount": 0,
+            "nodes": []
+          }
+        },
+        {
+          "name": "DummyOrg",
+          "repositories": {
+            "totalCount": 5,
+            "nodes": [
+              {
+                "name": "wolf-359",
+                "collaborators": null
+              },
+              {
+                "name": "Unimatrix-01",
+                "collaborators": null
+              },
+              {
+                "name": "Unimatrix-02",
+                "collaborators": null
+              },
+              {
+                "name": "enterprise-support-tools",
+                "collaborators": null
+              },
+              {
+                "name": "DeleteThisRepo",
+                "collaborators": null
+              }
+            ]
+          }
+        },
+        {
+          "name": "hodor",
+          "repositories": {
+            "totalCount": 10,
+            "nodes": [
+              {
+                "name": "hodor",
+                "collaborators": null
+              },
+              {
+                "name": "winterfell",
+                "collaborators": null
+              },
+              {
+                "name": "llefretniw",
+                "collaborators": null
+              },
+              {
+                "name": "fuck-the-lannisters",
+                "collaborators": null
+              },
+              {
+                "name": "holdthedoor",
+                "collaborators": null
+              },
+              {
+                "name": "legal-review",
+                "collaborators": null
+              },
+              {
+                "name": "sales-operations",
+                "collaborators": null
+              },
+              {
+                "name": "lfs-test",
+                "collaborators": null
+              },
+              {
+                "name": "blog",
+                "collaborators": null
+              },
+              {
+                "name": "test-codeowners",
+                "collaborators": null
+              }
+            ]
+          }
+        },
+        {
+          "name": "semantic-diff",
+          "repositories": {
+            "totalCount": 0,
+            "nodes": []
+          }
+        },
+        {
+          "name": "zawaideh-career-dev",
+          "repositories": {
+            "totalCount": 0,
+            "nodes": []
+          }
+        },
+        {
+          "name": "parkr-career-dev",
+          "repositories": {
+            "totalCount": 0,
+            "nodes": []
+          }
+        },
+        {
+          "name": "jldec-career-dev",
+          "repositories": {
+            "totalCount": 0,
+            "nodes": []
+          }
+        },
+        {
+          "name": "cjsneworg",
+          "repositories": {
+            "totalCount": 1,
+            "nodes": [
+              {
+                "name": "ideal-train",
+                "collaborators": null
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "errors": [
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        2,
+        "repositories",
+        "nodes",
+        0,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        2,
+        "repositories",
+        "nodes",
+        1,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        2,
+        "repositories",
+        "nodes",
+        2,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        2,
+        "repositories",
+        "nodes",
+        3,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        2,
+        "repositories",
+        "nodes",
+        4,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        2,
+        "repositories",
+        "nodes",
+        5,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        2,
+        "repositories",
+        "nodes",
+        6,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        2,
+        "repositories",
+        "nodes",
+        7,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        2,
+        "repositories",
+        "nodes",
+        8,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        2,
+        "repositories",
+        "nodes",
+        9,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        2,
+        "repositories",
+        "nodes",
+        10,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        2,
+        "repositories",
+        "nodes",
+        11,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        2,
+        "repositories",
+        "nodes",
+        12,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        2,
+        "repositories",
+        "nodes",
+        13,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        2,
+        "repositories",
+        "nodes",
+        14,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        2,
+        "repositories",
+        "nodes",
+        15,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        2,
+        "repositories",
+        "nodes",
+        16,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        2,
+        "repositories",
+        "nodes",
+        17,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        2,
+        "repositories",
+        "nodes",
+        18,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        2,
+        "repositories",
+        "nodes",
+        19,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        2,
+        "repositories",
+        "nodes",
+        20,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        2,
+        "repositories",
+        "nodes",
+        21,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        2,
+        "repositories",
+        "nodes",
+        22,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        2,
+        "repositories",
+        "nodes",
+        23,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        2,
+        "repositories",
+        "nodes",
+        24,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        2,
+        "repositories",
+        "nodes",
+        25,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        2,
+        "repositories",
+        "nodes",
+        26,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        2,
+        "repositories",
+        "nodes",
+        27,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        2,
+        "repositories",
+        "nodes",
+        28,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        2,
+        "repositories",
+        "nodes",
+        29,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        2,
+        "repositories",
+        "nodes",
+        30,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        2,
+        "repositories",
+        "nodes",
+        31,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        2,
+        "repositories",
+        "nodes",
+        32,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        2,
+        "repositories",
+        "nodes",
+        33,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        2,
+        "repositories",
+        "nodes",
+        34,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        2,
+        "repositories",
+        "nodes",
+        35,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        2,
+        "repositories",
+        "nodes",
+        36,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        2,
+        "repositories",
+        "nodes",
+        37,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        2,
+        "repositories",
+        "nodes",
+        38,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        2,
+        "repositories",
+        "nodes",
+        39,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        2,
+        "repositories",
+        "nodes",
+        40,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        6,
+        "repositories",
+        "nodes",
+        0,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        6,
+        "repositories",
+        "nodes",
+        1,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        6,
+        "repositories",
+        "nodes",
+        2,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        6,
+        "repositories",
+        "nodes",
+        3,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        6,
+        "repositories",
+        "nodes",
+        4,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        6,
+        "repositories",
+        "nodes",
+        5,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        6,
+        "repositories",
+        "nodes",
+        6,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        6,
+        "repositories",
+        "nodes",
+        7,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        6,
+        "repositories",
+        "nodes",
+        8,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        6,
+        "repositories",
+        "nodes",
+        9,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        6,
+        "repositories",
+        "nodes",
+        10,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        6,
+        "repositories",
+        "nodes",
+        11,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        6,
+        "repositories",
+        "nodes",
+        12,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        6,
+        "repositories",
+        "nodes",
+        13,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        6,
+        "repositories",
+        "nodes",
+        14,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        6,
+        "repositories",
+        "nodes",
+        15,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        6,
+        "repositories",
+        "nodes",
+        16,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        6,
+        "repositories",
+        "nodes",
+        17,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        8,
+        "repositories",
+        "nodes",
+        0,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        9,
+        "repositories",
+        "nodes",
+        0,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        9,
+        "repositories",
+        "nodes",
+        1,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        13,
+        "repositories",
+        "nodes",
+        0,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        14,
+        "repositories",
+        "nodes",
+        0,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        15,
+        "repositories",
+        "nodes",
+        0,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        17,
+        "repositories",
+        "nodes",
+        0,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        17,
+        "repositories",
+        "nodes",
+        1,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        17,
+        "repositories",
+        "nodes",
+        2,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        17,
+        "repositories",
+        "nodes",
+        3,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        17,
+        "repositories",
+        "nodes",
+        4,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        17,
+        "repositories",
+        "nodes",
+        5,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        19,
+        "repositories",
+        "nodes",
+        0,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        21,
+        "repositories",
+        "nodes",
+        0,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        21,
+        "repositories",
+        "nodes",
+        1,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        21,
+        "repositories",
+        "nodes",
+        2,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        23,
+        "repositories",
+        "nodes",
+        0,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        26,
+        "repositories",
+        "nodes",
+        0,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        26,
+        "repositories",
+        "nodes",
+        1,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        27,
+        "repositories",
+        "nodes",
+        0,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        27,
+        "repositories",
+        "nodes",
+        1,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        27,
+        "repositories",
+        "nodes",
+        2,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        27,
+        "repositories",
+        "nodes",
+        3,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        28,
+        "repositories",
+        "nodes",
+        0,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        29,
+        "repositories",
+        "nodes",
+        0,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        41,
+        "repositories",
+        "nodes",
+        0,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        41,
+        "repositories",
+        "nodes",
+        1,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        41,
+        "repositories",
+        "nodes",
+        2,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        44,
+        "repositories",
+        "nodes",
+        0,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        45,
+        "repositories",
+        "nodes",
+        0,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        47,
+        "repositories",
+        "nodes",
+        0,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        51,
+        "repositories",
+        "nodes",
+        0,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        0,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        1,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        2,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        3,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        4,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        5,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        6,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        7,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        8,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        9,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        10,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        11,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        12,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        13,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        14,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        15,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        16,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        17,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        18,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        19,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        20,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        21,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        22,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        23,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        24,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        25,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        26,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        27,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        28,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        29,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        30,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        31,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        32,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        33,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        34,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        35,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        36,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        37,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        38,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        39,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        40,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        41,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        42,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        43,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        44,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        45,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        46,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        47,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        48,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        49,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        50,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        51,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        52,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        53,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        54,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        55,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        56,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        57,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        58,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        59,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        60,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        61,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        62,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        63,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        64,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        65,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        66,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        67,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        68,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        69,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        70,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        71,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        72,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        73,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        74,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        75,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        76,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        77,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        78,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        79,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        80,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        81,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        82,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        55,
+        "repositories",
+        "nodes",
+        83,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        57,
+        "repositories",
+        "nodes",
+        0,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        57,
+        "repositories",
+        "nodes",
+        1,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        57,
+        "repositories",
+        "nodes",
+        2,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        58,
+        "repositories",
+        "nodes",
+        0,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        58,
+        "repositories",
+        "nodes",
+        1,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        58,
+        "repositories",
+        "nodes",
+        2,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        58,
+        "repositories",
+        "nodes",
+        3,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        58,
+        "repositories",
+        "nodes",
+        4,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        58,
+        "repositories",
+        "nodes",
+        5,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        58,
+        "repositories",
+        "nodes",
+        6,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        58,
+        "repositories",
+        "nodes",
+        7,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        58,
+        "repositories",
+        "nodes",
+        8,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        58,
+        "repositories",
+        "nodes",
+        9,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        59,
+        "repositories",
+        "nodes",
+        0,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        60,
+        "repositories",
+        "nodes",
+        0,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        60,
+        "repositories",
+        "nodes",
+        1,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        60,
+        "repositories",
+        "nodes",
+        2,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        60,
+        "repositories",
+        "nodes",
+        3,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        60,
+        "repositories",
+        "nodes",
+        4,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        60,
+        "repositories",
+        "nodes",
+        5,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        60,
+        "repositories",
+        "nodes",
+        6,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        60,
+        "repositories",
+        "nodes",
+        7,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        64,
+        "repositories",
+        "nodes",
+        0,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        66,
+        "repositories",
+        "nodes",
+        0,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        69,
+        "repositories",
+        "nodes",
+        0,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        70,
+        "repositories",
+        "nodes",
+        0,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        71,
+        "repositories",
+        "nodes",
+        0,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        71,
+        "repositories",
+        "nodes",
+        1,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        73,
+        "repositories",
+        "nodes",
+        0,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        73,
+        "repositories",
+        "nodes",
+        1,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        73,
+        "repositories",
+        "nodes",
+        2,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        73,
+        "repositories",
+        "nodes",
+        3,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        78,
+        "repositories",
+        "nodes",
+        0,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        79,
+        "repositories",
+        "nodes",
+        0,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        79,
+        "repositories",
+        "nodes",
+        1,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        79,
+        "repositories",
+        "nodes",
+        2,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        79,
+        "repositories",
+        "nodes",
+        3,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        79,
+        "repositories",
+        "nodes",
+        4,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        80,
+        "repositories",
+        "nodes",
+        0,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        80,
+        "repositories",
+        "nodes",
+        1,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        80,
+        "repositories",
+        "nodes",
+        2,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        82,
+        "repositories",
+        "nodes",
+        0,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        83,
+        "repositories",
+        "nodes",
+        0,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        88,
+        "repositories",
+        "nodes",
+        0,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        89,
+        "repositories",
+        "nodes",
+        0,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        89,
+        "repositories",
+        "nodes",
+        1,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        89,
+        "repositories",
+        "nodes",
+        2,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        89,
+        "repositories",
+        "nodes",
+        3,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        89,
+        "repositories",
+        "nodes",
+        4,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        90,
+        "repositories",
+        "nodes",
+        0,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        93,
+        "repositories",
+        "nodes",
+        0,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        93,
+        "repositories",
+        "nodes",
+        1,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        93,
+        "repositories",
+        "nodes",
+        2,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        93,
+        "repositories",
+        "nodes",
+        3,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        93,
+        "repositories",
+        "nodes",
+        4,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        94,
+        "repositories",
+        "nodes",
+        0,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        94,
+        "repositories",
+        "nodes",
+        1,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        94,
+        "repositories",
+        "nodes",
+        2,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        94,
+        "repositories",
+        "nodes",
+        3,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        94,
+        "repositories",
+        "nodes",
+        4,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        94,
+        "repositories",
+        "nodes",
+        5,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        94,
+        "repositories",
+        "nodes",
+        6,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        94,
+        "repositories",
+        "nodes",
+        7,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        94,
+        "repositories",
+        "nodes",
+        8,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        94,
+        "repositories",
+        "nodes",
+        9,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    },
+    {
+      "type": "FORBIDDEN",
+      "path": [
+        "organizations",
+        "nodes",
+        99,
+        "repositories",
+        "nodes",
+        0,
+        "collaborators"
+      ],
+      "locations": [
+        {
+          "line": 9,
+          "column": 11
+        }
+      ],
+      "message": "Must have push access to view repository collaborators."
+    }
+  ]
+}

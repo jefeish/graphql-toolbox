@@ -1,0 +1,35 @@
+query {
+  organizations(first: 100, after: null) {
+    nodes {
+      name
+      repositories(first: 100, after: null) {
+        totalCount
+        nodes {
+          name
+          collaborators(first: 10, after: null) {
+            totalCount
+            edges {
+              node {
+                name
+                login
+              }
+              permission
+            }
+            pageInfo {
+              hasNextPage
+              endCursor
+            }
+          }
+        }
+        pageInfo {
+          hasNextPage
+          endCursor
+        }
+      }
+    }
+    pageInfo {
+      hasNextPage
+      endCursor
+    }
+  }
+}

@@ -1,0 +1,15 @@
+query {
+  organization(login: null) {
+    name
+    repositories(first: 100, after: null) {
+      nodes {
+        name
+        nameWithOwner
+      }
+      pageInfo {
+        hasNextPage
+        endCursor
+      }
+    }
+  }
+}
